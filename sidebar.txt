@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yag:home|Door43 (yag)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yag|d43-yag repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yag/archive/master.zip|d43-yag.zip]]
+
+**Recent Changes**
+{{changes>ns = yag}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yag|Ethnologue data]]
+
